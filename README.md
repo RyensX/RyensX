@@ -1,5 +1,7 @@
 ### Hello 👏
 
+♥️ Machine Learning, Mobile Technology and Games
+
 <img src="https://komarev.com/ghpvc/?username=RyensX&color=brightgreen&label=Views" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=RyensX&show_icons=true" />
